@@ -6,7 +6,7 @@
 
 - 🔭 I recently published an article @ IEEE JSTARS: [SAR Image Despeckling Using Continuous Attention Module][paper]!
 - 🌱 I’m currently working on Image Restoration & Image Inpainting via Deep Learning
-- 👯 I’m a NVIDIA DLI ambassador on "Fundamentals of Deep Learning" course
+- 👯 I’m a NVIDIA DLI ambassador on [Fundamentals of Deep Learning][DLI]
 - 🥅 2022 Goals: Publish a new article on Image Inpainting
 - ⚡ Fun fact: I love playing guitar & I'm currently a member of a band
 
@@ -28,5 +28,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JK-the-Ko)](https://github.com/JK-the-Ko)
 
 [website]: http://vortex.hanyang.ac.kr
+[DLI]: https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/
 [paper]: https://ieeexplore.ieee.org/document/9633208
 [linkedin]: https://www.linkedin.com/in/jaekyun-ko/
