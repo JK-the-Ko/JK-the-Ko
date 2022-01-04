@@ -14,21 +14,19 @@
 
 [<img align="left" alt="vortex.hanyang.ac.kr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ## Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JK-the-Ko&repo=SAR-CAM)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JK-the-Ko&repo=Thermo_Fluid_Dynamics_Experiment)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JK-the-Ko&repo=SAR-CAM)](https://github.com/JK-the-Ko/SAR-CAM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JK-the-Ko&repo=Thermo_Fluid_Dynamics_Experiment)](https://github.com/JK-the-Ko/Thermo_Fluid_Dynamics_Experiment)
 
 ## Github Stats
-[![Jaekyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-the-Ko&count_private=True&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaekyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-the-Ko&count_private=True&show_icons=True)](https://github.com/JK-the-Ko)
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JK-the-Ko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JK-the-Ko)](https://github.com/JK-the-Ko)
 
 [website]: http://vortex.hanyang.ac.kr
 [paper]: https://ieeexplore.ieee.org/document/9633208
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/jaekyun-ko/
