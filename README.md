@@ -28,6 +28,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JK-the-Ko)](https://github.com/JK-the-Ko)
 
 [website]: http://vortex.hanyang.ac.kr
-[DLI]: https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/
+[DLI]: https://courses.nvidia.com/certificates/5f3f76d8edd84970a790b8f884d442b3
 [paper]: https://ieeexplore.ieee.org/document/9633208
 [linkedin]: https://www.linkedin.com/in/jaekyun-ko/
