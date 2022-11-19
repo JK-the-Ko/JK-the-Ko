@@ -15,4 +15,4 @@
 [DLI]: https://courses.nvidia.com/certificates/920b10e42f354a3a9127b4cd5b23a46b/
 [paper]: https://ieeexplore.ieee.org/document/9633208
 [linkedin]: https://www.linkedin.com/in/jaekyun-ko/
-[googleScholar]: [https://www.linkedin.com/in/jaekyun-ko/](https://scholar.google.com/citations?hl=en&user=NBs5cTMAAAAJ)
+[googleScholar]: https://scholar.google.com/citations?hl=en&user=NBs5cTMAAAAJ
