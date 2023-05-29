@@ -1,6 +1,6 @@
 ## Hi there, I'm Jaekyun Ko 👋 
 
-### I'm a Ph.D Student, DL Engineer, and NVIDIA DLI Ambassador!!
+### I'm a Ph.D Student, DL Researcher, and NVIDIA DLI Ambassador!!
 
 - 🔭 My recent publication is @ IEEE JSTARS: [SAR Image Despeckling Using Continuous Attention Module][paper]!
 - 🌱 I’m currently working on Image Restoration & Generative Model via Deep Learning
