@@ -2,7 +2,7 @@
 
 ### I'm a Ph.D Student, DL Researcher, and NVIDIA DLI Ambassador!!
 
-- 🔭 My recent publication is @ IEEE JSTARS: [SAR Image Despeckling Using Continuous Attention Module][paper]!
+- 🔭 My recent publication is @ ArXiv : [Self2Self+: Single-Image Denoising with Self-Supervised Learning and Image Quality Assessment Loss][paper]!
 - 🌱 I’m currently working on Image Restoration & Generative Model via Deep Learning
 - 👯 I’m a NVIDIA DLI ambassador on [Fundamentals of Deep Learning][DLI]
 
@@ -13,6 +13,6 @@
 
 [website]: http://vortex.hanyang.ac.kr
 [DLI]: https://courses.nvidia.com/certificates/920b10e42f354a3a9127b4cd5b23a46b/
-[paper]: https://ieeexplore.ieee.org/document/9633208
+[paper]: https://arxiv.org/abs/2307.10695
 [linkedin]: https://www.linkedin.com/in/jaekyun-ko/
 [googleScholar]: https://scholar.google.com/citations?hl=en&user=NBs5cTMAAAAJ
