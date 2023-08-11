@@ -4,7 +4,7 @@
 
 - 🔭 My recent publication is @ arXiv : [Self2Self+: Single-Image Denoising with Self-Supervised Learning and Image Quality Assessment Loss][paper]
 - 🌱 I’m currently working on Image Restoration & Generative Model via Deep Learning
-- 👯 I’m a NVIDIA DLI ambassador on [Fundamentals of Deep Learning][DLI]
+- 👯 I’m an NVIDIA DLI ambassador on [Fundamentals of Deep Learning][DLI]
 
 ## Connect with me 🌏
 
