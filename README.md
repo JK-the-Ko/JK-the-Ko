@@ -12,7 +12,7 @@
 [<img align="left" alt="codeSTACKr | Google Scholar" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googleScholar]
 
 [website]: http://vortex.hanyang.ac.kr
-[DLI]: https://courses.nvidia.com/certificates/920b10e42f354a3a9127b4cd5b23a46b/
+[DLI]: https://www.nvidia.com/en-gb/training/instructor-directory/bio/?instructorId=0031W00002iBzo7QAC
 [paper]: https://arxiv.org/abs/2307.10695
 [linkedin]: https://www.linkedin.com/in/jaekyun-ko/
 [googleScholar]: https://scholar.google.com/citations?hl=en&user=NBs5cTMAAAAJ
