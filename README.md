@@ -2,8 +2,8 @@
 
 ### I'm a Ph.D Student, DL Researcher, and NVIDIA DLI Ambassador!!
 
-- 🌱 I’m currently working on Image Restoration & Generative Model via Deep Learning
-- 👯 I’m an NVIDIA DLI ambassador on [Fundamentals of Deep Learning][DLI]
+- 🌱 I’m currently working on **Image Restoration & Generative Model via Deep Learning**
+- 👯 I’m an **NVIDIA DLI Ambassador** on [Fundamentals of Deep Learning][DLI]
 - 🔭 List of Publications
   * [Preprint] [PEIPNet: Parametric Efficient Image-Inpainting Network with Depthwise and Pointwise Convolution][PEIPNet]
   * [Preprint] [Self2Self+: Single-Image Denoising with Self-Supervised Learning and Image Quality Assessment Loss][Self2Self+]
