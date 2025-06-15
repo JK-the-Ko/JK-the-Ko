@@ -1,9 +1,9 @@
 ## Hi there, I'm Jaekyun Ko 👋 
 
 - ### I'm a Post-Doc. Researcher @ [VILab][LAB] in [HYU CS][HYU_CS]!!
-  - 🌱 I’m currently working on **Image Restoration & Generative Model via Deep Learning** 
+  - 🌱 Working on **Image Restoration & Generative Model via Deep Learning** 
 - ### I'm an NVIDIA DLI Ambassador!!
-  - 👯 I’m an **NVIDIA DLI Ambassador** on [Fundamentals of Deep Learning][DLI]
+  - 👯 **NVIDIA DLI Ambassador** on [Fundamentals of Deep Learning][DLI]
 
 [LAB]: https://sites.google.com/view/lliger9
 [HYU_CS]: https://cs.hanyang.ac.kr/
