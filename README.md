@@ -1,6 +1,6 @@
 ## Hi there, I'm Jaekyun Ko 👋 
 
-- ### I'll be joining [Samsung Electronics][Samsung] from December!!
+- ### I'll be joining [Samsung Electronics][Samsung] from December 2025!!
 - ### I served as Post-Doc. Researcher @ [VILab][LAB] in [HYU CSE][HYU_CSE]!!
   - 🌱 Worked on **Image Restoration & Generative Model via Deep Learning**
 
