@@ -1,6 +1,6 @@
 ## Hi there, I'm Jaekyun Ko 👋 
 
-- ### I am an AI ISP Researcher @ [Samsung Electronics (Mobile Experience Division)][Samsung]
+- ### I am an AI-ISP Researcher @ [Samsung Electronics (Mobile Experience Division)][Samsung]
 - ### I served as a Post-Doc. Researcher @ [VILab][LAB] in [HYU CSE][HYU_CSE]
   - 🌱 Worked on **Generalization on Image Restoration**
 
